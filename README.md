@@ -49,7 +49,7 @@ The paper suggests exploring:
 
 ## 📄 Reference Paper
 
-The full term paper can be found in [`TermPaper_COGS567_Owaym.pdf`](./TermPaper_COGS567_Owaym.pdf)
+The full term paper can be found in [`TermPaper_COGS567_Owaym.pdf`](./EnhancingTheoryofMind.pdf)
 
 ## 📜 License
 
